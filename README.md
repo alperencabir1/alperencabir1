@@ -1,16 +1,16 @@
-## Hi there 👋
+### Alperen
 
-<!--
-**alperencabir1/alperencabir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend mimarileri, veri tabanı süreçleri ve otomasyon araçları üzerine çalışıyorum. Sistem tarafında Linux ortamları ve gömülü sistemler (ESP32) ile pratikler yapıyorum.
 
-Here are some ideas to get you started:
+#### Çalışma Alanları & Araçlar
+- **Diller:** Python, C#, JavaScript, SQL, Bash
+- **Backend & Veri Tabanı:** Node.js, Express, MS SQL Server, SQLite, Docker
+- **Sistem:** Debian, Kali Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Projeler & Pratikler
+- **Web Otomasyonu & Veri Çekme:** Dinamik sayfaları tarayan ve yerel veri tabanında (SQLite) veri yapılandıran otomasyon araçları.
+- **RESTful Servisler:** Katmanlı mimari, özel middleware filtreleri ve doğrulama mekanizmaları içeren Express tabanlı API'ler.
+- **Donanım / IoT:** Sensör, ekran (SPI) ve joystick entegrasyonlu ESP32 prototipleri.
+
+---
+[LinkedIn](https://linkedin.com/in/) • [E-posta](mailto:)
