@@ -14,4 +14,4 @@ Backend tarafında servis mimarileri, veri tabanı süreçleri ve otomasyon ara�
 - Sensör ve ekran entegrasyonlu ESP32 donanım projeleri.
 
 ---
-İletişim: [LinkedIn](https://www.linkedin.com/in/alperen-cabir-17316738a/) • [E-posta](mailto:alperencabir1@gmail.com)
+İletişim: [LinkedIn](https://www.linkedin.com/in/alperen-cabir-17316738a/) • [alperencabir1@gmail.com](mailto:alperencabir1@gmail.com)
