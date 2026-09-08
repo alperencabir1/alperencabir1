@@ -1,16 +1,17 @@
 ### Alperen
 
-Backend mimarileri, veri tabanı süreçleri ve otomasyon araçları üzerine çalışıyorum. Sistem tarafında Linux ortamları ve gömülü sistemler (ESP32) ile pratikler yapıyorum.
+Backend tarafında servis mimarileri, veri tabanı süreçleri ve otomasyon araçları geliştiriyorum. Ağ güvenliği, Linux ortamları ve gömülü sistemler (ESP32) üzerine pratikler yapıyorum.
 
-#### Çalışma Alanları & Araçlar
+#### Çalıştığım Teknolojiler & Araçlar
 - **Diller:** Python, C#, JavaScript, SQL, Bash
-- **Backend & Veri Tabanı:** Node.js, Express, MS SQL Server, SQLite, Docker
-- **Sistem:** Debian, Kali Linux
+- **Backend / DB:** Node.js, Express, MS SQL Server, SQLite, Docker
+- **Sistem & Ağ:** Debian, Kali Linux, Wireshark, Nmap
 
-#### Projeler & Pratikler
-- **Web Otomasyonu & Veri Çekme:** Dinamik sayfaları tarayan ve yerel veri tabanında (SQLite) veri yapılandıran otomasyon araçları.
-- **RESTful Servisler:** Katmanlı mimari, özel middleware filtreleri ve doğrulama mekanizmaları içeren Express tabanlı API'ler.
-- **Donanım / IoT:** Sensör, ekran (SPI) ve joystick entegrasyonlu ESP32 prototipleri.
+#### Neler Üzerinde Çalıştım?
+- Python/Selenium tabanlı veri kazıma (scraping) ve yerel veri tabanı loglama sistemleri.
+- Express tabanlı, middleware katmanları ve yetkilendirme içeren REST API'ler.
+- Sanal laboratuvar ortamlarında paket analizi ve ağ trafiği incelemeleri.
+- Sensör ve ekran entegrasyonlu ESP32 donanım projeleri.
 
 ---
-[LinkedIn](https://linkedin.com/in/) • [E-posta](mailto:)
+İletişim: [LinkedIn](https://www.linkedin.com/in/alperen-cabir-17316738a/) • [E-posta](mailto:alperencabir1@gmail.com)
