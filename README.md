@@ -1,6 +1,6 @@
 ### Alperen
 
-Backend tarafında servis mimarileri, veri tabanı süreçleri ve otomasyon araçları geliştiriyorum. Ağ güvenliği, Linux ortamları ve gömülü sistemler (ESP32) üzerine pratikler yapıyorum.
+Backend tarafında servis mimarileri, veri tabanı süreçleri ve otomasyon araçları geliştiriyorum. Ağ güvenliği, Linux ortamları ve gömülü sistemler üzerine pratikler yapıyorum.
 
 #### Çalıştığım Teknolojiler & Araçlar
 - **Diller:** Python, C#, JavaScript, SQL, Bash
